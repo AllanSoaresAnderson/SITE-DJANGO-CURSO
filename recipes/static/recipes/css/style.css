@@ -258,3 +258,7 @@ filter: brightness(.8);
 }
 
 
+.preparation-steps {
+    padding: var(--spacing-gutter-medium);
+  }
+
